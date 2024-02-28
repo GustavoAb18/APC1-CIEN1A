@@ -12,5 +12,7 @@ Nesta pasta, você encontrará os códigos referentes às aulas expositivas. Sã
 ### 2. Práticas
 Aqui estão armazenados os códigos correspondentes às atividades práticas. Essas práticas visam fortalecer os conceitos aprendidos em sala, proporcionando oportunidades para aplicação e exercício das habilidades adquiridas.
 
+## Meus próprios testes
+Por fim, terá uma pasta adicionada de testes apenas meus para treinar mais sobre certos programas.
 
-<sub>Copied template using "dontpad."</sub>
+<sub>Copied template using "dontpad." Seek more info about that.</sub>
